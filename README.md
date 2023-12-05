@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pascalSautot
 - 👀 I’m interested in system orchestration, image processing
-- 🌱 I’m currently learning convolutional neural networks
-- 💞️ I’m looking to collaborate on using various imaging and modeling techniques to create a 3D characterized model of a building (mostly house)
+- 🌱 I use to dig learning convolutional neural networks but I moved on other topics.
+- 💞️ I’m looking to collaborate on using various imaging and modeling techniques to create a 3D characterized model of a building (mostly house - interesting past project)
 - 📫 How to reach me ...
 
 <!---
